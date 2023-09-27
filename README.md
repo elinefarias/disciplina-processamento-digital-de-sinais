@@ -20,4 +20,7 @@ Contribuições externas são sempre bem-vindas! Sinta-se à vontade para abrir 
 
 Este projeto está licenciado sob a [Licença MIT](LICENSE) - consulte o arquivo LICENSE para obter mais detalhes.
 
-      "Em PDS, cada sinal é uma história a ser decifrada, cada frequência uma nota no concerto da informação" 🎙️🔍 📊
+<div align="center">
+      <i>"Em PDS, cada sinal é uma história a ser decifrada, cada frequência uma nota no concerto da informação" 🎙️🔍 📊
+      </i>
+</div>
